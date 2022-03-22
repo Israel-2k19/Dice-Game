@@ -1,0 +1,56 @@
+
+h4 {
+	color: #ffffff;
+	font-size: 3rem;
+	margin-top: 10rem;
+}
+
+
+.body {
+	background-color: #370249;
+
+}
+
+.game-area {
+	text-align: center;
+}
+
+
+.heading-1 {
+	color: #ffffff;
+	font-size: 6rem;
+	margin-top: 2rem;
+	margin-bottom: 5rem;
+}
+
+.player-1-dice{
+	width: 12rem;
+	margin-top: 1rem;
+}
+
+
+.player-2-dice{
+	width: 12rem;
+	margin-top: 1rem;
+}
+
+
+.player1 {
+	margin-right: -20rem;
+}
+
+.player2 {
+	margin-left: -20rem;
+}
+
+
+.copyright{
+	color: #ffffff;
+	font-size: 1rem;
+	text-align: center;
+	margin-top: 6rem;
+}
+
+.Nigeria_flag{
+	width: 15px;
+}
